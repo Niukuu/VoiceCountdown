@@ -1,0 +1,8 @@
+C:\Users\Nikola\Desktop\Nikola\free time coding\c#\CountdownWithVoice\CountdownWithVoice\bin\Debug\CountdownWithVoice.exe.config
+C:\Users\Nikola\Desktop\Nikola\free time coding\c#\CountdownWithVoice\CountdownWithVoice\bin\Debug\CountdownWithVoice.exe
+C:\Users\Nikola\Desktop\Nikola\free time coding\c#\CountdownWithVoice\CountdownWithVoice\bin\Debug\CountdownWithVoice.pdb
+C:\Users\Nikola\Desktop\Nikola\free time coding\c#\CountdownWithVoice\CountdownWithVoice\obj\Debug\CountdownWithVoice.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Nikola\free time coding\c#\CountdownWithVoice\CountdownWithVoice\obj\Debug\CountdownWithVoice.exe
+C:\Users\Nikola\Desktop\Nikola\free time coding\c#\CountdownWithVoice\CountdownWithVoice\obj\Debug\CountdownWithVoice.pdb
+C:\Users\Nikola\Desktop\Nikola\free time coding\c#\CountdownWithVoice\CountdownWithVoice\obj\Debug\CountdownWithVoice.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Nikola\free time coding\c#\CountdownWithVoice\CountdownWithVoice\obj\Debug\CountdownWithVoice.csproj.SuggestedBindingRedirects.cache
